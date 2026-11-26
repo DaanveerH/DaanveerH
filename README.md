@@ -25,8 +25,8 @@ monitors that watch things so i don't have to.
 ### out in the open
 
 <a href="https://github.com/DefaultHQ/build-support-agent-skill">
-  <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=DefaultHQ&repo=build-support-agent-skill&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF" alt="build-support-agent-skill">
+  <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=DefaultHQ&repo=build-support-agent-skill&theme=transparent&hide_border=true&title_color=8B949E&text_color=8B949E&icon_color=8B949E" alt="build-support-agent-skill">
 </a>
 <a href="https://github.com/DaanveerH/shopify-scripting">
-  <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=DaanveerH&repo=shopify-scripting&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF" alt="shopify-scripting">
+  <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=DaanveerH&repo=shopify-scripting&theme=transparent&hide_border=true&title_color=8B949E&text_color=8B949E&icon_color=8B949E" alt="shopify-scripting">
 </a>
