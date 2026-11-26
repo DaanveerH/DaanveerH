@@ -10,20 +10,16 @@
 
 </div>
 
-<br>
-
-### what i build
-
-agents that answer real support tickets.  
-scripts that reach checkout before the drop sells out.  
-monitors that watch things so i don't have to.
-
-<br>
-
-### out in the open
+---
 
 **[build-support-agent-skill](https://github.com/DefaultHQ/build-support-agent-skill)**  
-<sub>agent skill playbook for building DaanBot-style support agents.</sub>
+<sub>playbook for building support agents that close tickets.</sub>
 
 **[shopify-scripting](https://github.com/DaanveerH/shopify-scripting)**  
 <sub>watches the drop, builds the cart, opens checkout. you press pay.</sub>
+
+**[playroom](https://github.com/daanorg/playroom)**  
+<sub>sonos controller for macos. rooms, local search, silent video.</sub>
+
+**[amc-monitor](https://github.com/daanorg/amc-monitor)**  
+<sub>pings discord when an imax seat opens up.</sub>
